@@ -188,7 +188,9 @@ for finance team investigation.
 ## 👤 Author
 
 Ishika Khapekar
+
 Aspiring Data Analyst 
+
 linkedin: https://www.linkedin.com/in/ishika-khapekar-a068182ab
 
 ---
